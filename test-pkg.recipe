@@ -4,16 +4,11 @@
         {
             "AssetName":"test-pkg",
             "AssetType":"module",
-            "AssetDownload":"https://github.com/Lemon-Chad/test-pkg/releases",
+            "AssetDownload":"https://github.com/Lemon-Chad/test-pkg/releases/download/v1.0.0/test-pkg.devp",
             "AssetDescription":"Unused"
         }
     ],
-    "Dependencies":[
-        {
-            "DependencyName":"Name",
-            "DependencyRepo":"Unused, will be used in future if dependency is not found in already existing repo."
-        }
-    ],
+    "Dependencies":[],
     "Information":{
         "Author":"UNUSED",
         "Copyright":"UNUSED",
