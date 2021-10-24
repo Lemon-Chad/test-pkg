@@ -1,0 +1,4 @@
+
+fn  myLibFunc {
+	println("Hello, world!");
+}
